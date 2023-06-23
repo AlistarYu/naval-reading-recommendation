@@ -1,6 +1,9 @@
 # 纳瓦尔的推荐阅读列表
 <img src="./naval.jpg" alt="Image" width="30%">
-整理了在《纳瓦尔宝典》中纳瓦尔推荐阅读的一些书籍和博客，并放上链接以便查阅。
+
+> 整理了在《纳瓦尔宝典》中纳瓦尔推荐阅读的一些书籍和博客，并放上链接以便查阅。
+> 另外，《纳瓦尔宝典》中提到的书籍有些是**直接将英文书名翻译为中文，而非对应中文译本的书名**，本文中作了一些修正工作，并**补充了一些中文版里被删减的灵性相关内容**，敬请查收。
+> by Alistar
 
 ## 书籍
 ### 非虚拟类
@@ -42,7 +45,7 @@
   - 通过回答人们对物理学的各种好奇问题，让读者在趣味中了解物理学的基本概念和现象
 - [《历史的教训》威尔·杜兰特，阿里尔·杜兰特](https://book.douban.com/subject/26279878/)
   - 通过对历史的回顾和分析，提出了一些关于人类社会和文明发展的重要观点
-- [《主权个体：把握向信息时代的过渡》詹姆斯·戴尔·戴维森等](https://book.douban.com/subject/1919172/)
+- [《The Sovereign Individual》詹姆斯·戴尔·戴维森等](https://book.douban.com/subject/1919172/)
   - 讨论了信息时代的到来对个人和社会的影响，并提出了一些关于未来的预测和建议
 - [《穷查理宝典：查理·芒格智慧箴言录》查理·芒格](https://book.douban.com/subject/26831789/)
   - 收录了查理·芒格的智慧箴言和投资哲学，包括价值投资、决策思维和长期投资的原则
@@ -56,3 +59,23 @@ Theory of Games of Strategy》J·D·威廉斯](https://book.douban.com/subject/3
 - [《合作的进化》罗伯特·阿克塞尔罗德](https://book.douban.com/subject/26901444/)
   - 研究追求各自利益的个体的行为，提出一些关于个体动机的假设，并在此基础上推断整个系统的行为结果
 
+### 哲学和灵性类
+- [《开悟者眼中的生命真相》杰德·麦肯纳](https://book.douban.com/subject/26383445/)
+- [《Jed McKenna’s Notebook》杰德·麦肯纳](https://book.douban.com/subject/6367043/)
+- [《Jed Talk #1》杰德·麦肯纳](https://book.douban.com/subject/35768190/)
+- [《Jed Talk #2》杰德·麦肯纳](https://www.amazon.com/Jed-Talks-Away-Things-Man-ebook/dp/B07HGCS5FD/)
+- [《A Master's Secret Whispers》皮尔·古普塔](https://book.douban.com/subject/35594358/)
+- [《直触真理：如何应对人生问题》皮尔·古普塔](https://book.douban.com/subject/36224273/)
+- [《全然的自由：克里希那穆提主义》古杜·克里希那穆提](https://book.douban.com/subject/1367288/)
+- [《悉达多》赫尔曼·黑塞](https://book.douban.com/subject/26980487/)
+- [《The Book of Secrets》奥修](https://www.amazon.com/Book-Secrets-Meditations-Discover-Mystery/dp/0312650604)
+- [《The Great Challenge》奥修](https://www.amazon.com/Great-Challenge-Exploring-World-within/dp/8172236840)
+- [《The Way to Love: The Last Meditations of Anthony de Mello》安东尼·德·梅勒](https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X)
+- [《The Untethered Soul: The Journey Beyond Yourself》Michael Singer](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)
+- [《清醒地活》迈克·辛格](https://book.douban.com/subject/35581777/)
+- [《沉思录》马克·奥勒留](https://book.douban.com/subject/2359003/)
+- [《Love Yourself Like Your Life Depends On It》卡马尔·拉维坎特](https://book.douban.com/subject/22992854/)
+- [《The Tao of Seneca: Practical Letters from a Stoic Master》塞涅卡](https://www.amazon.com/The-Tao-of-Seneca-audiobook/dp/B01AIXEJ0U)
+- [《改变你的心智》麦克·波伦](https://book.douban.com/subject/34955757/)
+- [《醒思录：李小龙的生活智慧》李小龙](https://book.douban.com/subject/3876009/)
+- [《先知》纪伯伦](https://book.douban.com/subject/2212371/)
