@@ -66,6 +66,7 @@ Theory of Games of Strategy》J·D·威廉斯](https://book.douban.com/subject/3
 - [《Jed Talk #2》杰德·麦肯纳](https://www.amazon.com/Jed-Talks-Away-Things-Man-ebook/dp/B07HGCS5FD/)
 - [《A Master's Secret Whispers》皮尔·古普塔](https://book.douban.com/subject/35594358/)
 - [《直触真理：如何应对人生问题》皮尔·古普塔](https://book.douban.com/subject/36224273/)
+- [《生命之书》古杜·克里希那穆提](https://book.douban.com/subject/6526752/)
 - [《全然的自由：克里希那穆提主义》古杜·克里希那穆提](https://book.douban.com/subject/1367288/)
 - [《悉达多》赫尔曼·黑塞](https://book.douban.com/subject/26980487/)
 - [《The Book of Secrets》奥修](https://www.amazon.com/Book-Secrets-Meditations-Discover-Mystery/dp/0312650604)
