@@ -1,4 +1,5 @@
 # 纳瓦尔的推荐阅读列表
+
 <img src="./naval.jpg" alt="Image" width="30%">
 
 > 整理了在《纳瓦尔宝典》中纳瓦尔推荐阅读的一些书籍和博客，并放上链接以便查阅。
@@ -6,7 +7,9 @@
 > 整理者：Alistar
 
 ## 书籍
+
 ### 非虚拟类
+
 - [《无穷的开始：世界进步的本源》戴维·多伊奇](https://book.douban.com/subject/26184242/)
   - 一本关于个人成长、事业发展和生活意义的启示录
 - [《人类简史：从动物到上帝》尤瓦尔·赫拉利](https://book.douban.com/subject/25985021/)
@@ -60,6 +63,7 @@ Theory of Games of Strategy》J·D·威廉斯](https://book.douban.com/subject/3
   - 研究追求各自利益的个体的行为，提出一些关于个体动机的假设，并在此基础上推断整个系统的行为结果
 
 ### 哲学和灵性类
+
 - [《开悟者眼中的生命真相》杰德·麦肯纳](https://book.douban.com/subject/26383445/)
 - [《Jed McKenna’s Notebook》杰德·麦肯纳](https://book.douban.com/subject/6367043/)
 - [《Jed Talk #1》杰德·麦肯纳](https://book.douban.com/subject/35768190/)
@@ -80,3 +84,53 @@ Theory of Games of Strategy》J·D·威廉斯](https://book.douban.com/subject/3
 - [《改变你的心智》麦克·波伦](https://book.douban.com/subject/34955757/)
 - [《醒思录：李小龙的生活智慧》李小龙](https://book.douban.com/subject/3876009/)
 - [《先知》纪伯伦](https://book.douban.com/subject/2212371/)
+
+### 科幻小说
+
+- [《虚构集》豪尔赫·路易斯·博尔赫斯](https://book.douban.com/subject/3003477/)
+- [《你一生的故事》特德·姜](https://book.douban.com/subject/26295448/)
+- [《呼吸》特德·姜](https://book.douban.com/subject/34672176/)
+- [《软件体的生命周期》特德·姜](https://book.douban.com/subject/26295450/)
+- [《雪崩》尼尔·斯蒂芬森](https://book.douban.com/subject/27097409/)
+- [《最后的问题》艾萨克·阿西莫夫](https://book.douban.com/subject/4834737/)
+
+## 博客
+
+- @KevinSimler — [Melting Asphalt](https://meltingasphalt.com/)
+    - 在博客中探讨了各种主题，包括社会心理学、文化、科技和人类行为等。
+- @farnamstreet — [Farnam Street](https://fs.blog)
+    - Farnam Street 是一个关于思考和决策的在线资源，旨在帮助人们提高他们的思考能力和决策质量。在这个网站上，你可以找到关于心理学、认知科学、人类行为和决策等主题的文章和资源。这些文章通常以深入的研究和洞察力为特点，旨在帮助读者更好地理解和应用这些概念。总体而言，这个网站提供了关于思考和决策的实用和有价值的内容
+- @benthompson - [Stratchery](https://stratechery.com/)
+    - 主要关注科技和商业领域的分析和评论。该网站提供了关于科技公司、产品和行业动态的深入洞察力
+- @baconmeteor — [Idle Words](https://idlewords.com/)
+    - 一个个人博客，提供了作者对科技、互联网和社会问题的观点和评论。以幽默和批判性的风格呈现，旨在激发读者的思考和讨论
+- 文章 [The Munger Operating System: A Life That Works](https://fs.blog/munger-operating-system/)
+    - 总结了芒格的思维模式和生活原则，并提醒读者要运用这些原则来改善自己的思考和生活方式
+- 文章 [The Dilbert Blog: The Day You Became A Better Writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
+    - 讲述了一些写作技巧
+- 文章 [Crony Beliefs](https://meltingasphalt.com/crony-beliefs/)
+    - 探讨了 "crony beliefs" 的形成和影响，并提供了一些应对这种信念的建议。它强调了社会认同、认知偏差和信息过滤等因素对信念形成的影响，并呼吁人们保持开放的思维和批判性思维，以促进个人和社会的发展
+- 文章 [Career Decisions - by Elad Gil](https://blog.eladgil.com/p/career-decisions)
+    - 探讨了职业决策的重要性和如何做出明智的选择。它强调了深入了解自己、权衡风险和回报、保持灵活性和建立人际关系的重要性。这些指导原则旨在帮助读者做出对个人未来有益的职业决策
+- 视频系列 [Sapiens: A Graphic History - YouTube](https://www.youtube.com/playlist?list=PLfc2WtGuVPdkFdAT9GofZ_xcdMGb-QGKs)
+    - 图说历史
+- 文章 [Think Like Reality](https://www.lesswrong.com/posts/tWLFWAndSZSYN6rPB/think-like-reality#)
+    - 讨论了量子物理学的一些概念和思维方式，以及如何以更接近现实的方式思考和理解量子物理学
+- 文章 [Lazy Leadership | by Andrew Wilkinson](https://medium.com/flow/lazy-leadership-8ba19e34f959)
+    - 探讨了懒惰领导的概念和优势。它强调了懒惰领导者注重效率和结果，委托任务并信任团队成员的能力。这篇文章旨在帮助领导者以更高效和有效的方式领导团队
+- [Ed Latimore](https://edlatimore.com/)
+    - 涵盖了个人发展、自我提升、心理学、拳击和体育等主题。他的书籍和演讲可能涉及类似的主题，旨在帮助人们实现个人成长和成功
+ 
+## 其他推荐
+
+### 推特账号
+
+- [@AmuseChimp](https://twitter.com/AmuseChimp)
+- [@mmay3r](https://twitter.com/mmay3r)
+- [@nntaleb](https://twitter.com/nntaleb)
+- [FaceBook@Art De Vany](https://www.facebook.com/art.devany/)
+
+### 杂项
+- 必读推文：[Sizhao Yang 的 twitter thread](https://twitter.com/zaoyang/status/949706485742714881)
+- Rick and Morty TV show + comics
+- [You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
