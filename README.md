@@ -65,10 +65,13 @@ Theory of Games of Strategy》J·D·威廉斯](https://book.douban.com/subject/3
 ### 哲学和灵性类
 
 - [《开悟者眼中的生命真相》杰德·麦肯纳](https://book.douban.com/subject/26383445/)
+  - 探讨了宇宙和人类存在的本质。这本书提出了一种全面的理论，试图回答一切存在的问题
 - [《Jed McKenna’s Notebook》杰德·麦肯纳](https://book.douban.com/subject/6367043/)
+  - 探讨了宇宙和人类存在的本质，以及个体意识和觉醒的过程  
 - [《Jed Talk #1》杰德·麦肯纳](https://book.douban.com/subject/35768190/)
 - [《Jed Talk #2》杰德·麦肯纳](https://www.amazon.com/Jed-Talks-Away-Things-Man-ebook/dp/B07HGCS5FD/)
 - [《A Master's Secret Whispers》皮尔·古普塔](https://book.douban.com/subject/35594358/)
+  - 涉及如何摆脱焦虑、治愈情绪痛苦、实现真正的成功、获得清晰的头脑、培养智慧、掌握人际关系、完全控制自己的思维等等
 - [《直触真理：如何应对人生问题》皮尔·古普塔](https://book.douban.com/subject/36224273/)
 - [《生命之书》古杜·克里希那穆提](https://book.douban.com/subject/6526752/)
 - [《全然的自由：克里希那穆提主义》古杜·克里希那穆提](https://book.douban.com/subject/1367288/)
@@ -76,12 +79,17 @@ Theory of Games of Strategy》J·D·威廉斯](https://book.douban.com/subject/3
 - [《The Book of Secrets》奥修](https://www.amazon.com/Book-Secrets-Meditations-Discover-Mystery/dp/0312650604)
 - [《The Great Challenge》奥修](https://www.amazon.com/Great-Challenge-Exploring-World-within/dp/8172236840)
 - [《The Way to Love: The Last Meditations of Anthony de Mello》安东尼·德·梅勒](https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X)
+  - 安东尼·德梅洛思想的最终成果，他在其中探讨了爱的终极问题
 - [《The Untethered Soul: The Journey Beyond Yourself》Michael Singer](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)
+  - 探讨了如何摆脱限制，超越自身的界限。它提供了每天可以做的事情，以发现内心的平静与宁静
 - [《清醒地活》迈克·辛格](https://book.douban.com/subject/35581777/)
+  - 从崭新的视角带你探索内心、认识自我内在能量的来源和觉察束缚你心灵成长的阻碍，为你正经历的烦恼、压力、纠结、痛苦找到一味良药
 - [《沉思录》马克·奥勒留](https://book.douban.com/subject/2359003/)
+  - 古罗马皇帝奥勒留写给自己的书，内容大部分是他在鞍马劳顿中写成的
 - [《Love Yourself Like Your Life Depends On It》卡马尔·拉维坎特](https://book.douban.com/subject/22992854/)
 - [《The Tao of Seneca: Practical Letters from a Stoic Master》塞涅卡](https://www.amazon.com/The-Tao-of-Seneca-audiobook/dp/B01AIXEJ0U)
 - [《改变你的心智》麦克·波伦](https://book.douban.com/subject/34955757/)
+  - 用启灵药物新科学探索意识运作、治疗上瘾及忧郁、面对死亡与看见超脱
 - [《醒思录：李小龙的生活智慧》李小龙](https://book.douban.com/subject/3876009/)
 - [《先知》纪伯伦](https://book.douban.com/subject/2212371/)
 
